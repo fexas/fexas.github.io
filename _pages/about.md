@@ -11,36 +11,26 @@ redirect_from:
 Current
 ===
 
-*I am looking for a Ph.D. position in machine learning.*
+*I am looking for a Ph.D. position in mathematics/microeconomy theory/machine learning.*
 
 
 Short Bio
 ===
 
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
+I am **Rui Li (黎睿)**, a junior student at [Renmin University of China](https://www.ruc.edu.cn/home1024), majoring in both mathematics and economics. 
 
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
-
+🌱:Mathematics(Mostly Analysis and Geomtery)/Microeconomy theory(Mechanism Desgin, Auction Theory and Contest Theory)/Machine Learning
 
 Education
 ===
-* Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
+* Sept. 2020 --- June 2024: B.Sc. in Mathematics, Renmin University of China (expected)
+* Sept. 2020 --- June 2024: B.A. in Economics, Renmin University of China (expected)
+* Sept. 2014 --- June 2020: Foreign Lanuage School Attached to GuangXi Normal University (FLS)
 
 Honors and Awards
 ===
-* Outstanding Freshman Scholarship    **Top 5%**     2019
-* Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
-* Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
-* National Grants     **Top 5%**   2022, 2021, 2019
-
-
-Activities
-===
-* TA in *Mathematical Analysis B*, 2021 Fall
-* Editor of the Wechat account of School of Gifted Young, USTC
-* Member of School of Gifted Young Student Union
-* Attendee of ACM TURC 2021, Hefei, China
+* National Undergraduate Training Program for Innovation and Entrepreneurship    2022
+* Third prize, “Challenge Cup” National Contest      2022
 
 
 <script>
