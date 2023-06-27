@@ -8,23 +8,22 @@ author_profile: true
 
 # Research interets
 
-1. Federal learning
-   - graph mining
-   - differntial privacy
-2. Adversarial Robustness
+1. Mathematics
+   - Analysis
+   - Geometry
+2. MicroeconomyTheory
+3. Machine learning
 
 ---
 
 # Projects
 
-## 1. Interpretable adversarial attacks with causal disentangled representations
+## 1. Asset Pricing via Machine learning
 
-*Summer Research Program at HKUST*
+Supervisor: Prof. [Lei Ge](http://econ.ruc.edu.cn/jszy/fea3723225674f648224755a1b247658.htm)
 
-Supervisor: Prof. [Tong Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+Mar. 2023 --- Jun. 2023, RUC
 
-June 2022 --- Aug. 2022, HKUST
+- [Github Repositories](https://github.com/fexas/StockProject)
 
-
-In this research, we explore the relationship between causal disentanglement and adversarial attack. We propose a prospective method to detect adversarial examples by causal disentanglement and provide a direct interpretation for the adversarial noise from causal perspectives.
-
+In this project, I implemented machine learning model (including OLS ,Lasso, RF, XGboost, Lgbm, NN3), to forecast stock reutrns and identify potential market trends.
