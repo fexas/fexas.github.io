@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaolong Jin"
+title                    : "Rui Li"
 title_separator          : "-"
-name                     : &name "Xiaolong Jin"
+name                     : &name "Rui Li"
 description              : &description "personal description"
-url                      : https://jinxiaolong1129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fexas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinxiaolong1129/Jinxiaolong1129.github.io"
+repository               : "fexas/fexas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaolong Jin"
+  name             : "RuiLi"
   avatar           : "academic50k.png"
   bio              : "Be Positive!"
-  location         : "Hefei, China"
-  employer         : "USTC"
+  location         : "Beijing, China"
+  employer         : "Renmin University of China"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  email            : "jinxiaolong1129@gmail.com"
+  email            : "lirui19@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jinxiaolong1129"
+  github           : "fexas"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JxlDragon"
+  #twitter          : "JxlDragon"
   vine             :
   weibo            :
   youtube          :
