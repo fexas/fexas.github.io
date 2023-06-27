@@ -23,7 +23,7 @@ tags:
 
 配套视频课程：
 
-- （[高等数学-微积分 《数学分析B1》【中科大少年班精品课】 程艺教授（104讲）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Lv411r7wa/?spm_id_from=333.337.search-card.all.click&vd_source=b124522b4e09e585dffec4144565adea)）
+- [高等数学-微积分 《数学分析B1》【中科大少年班精品课】 程艺教授（104讲）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Lv411r7wa/?spm_id_from=333.337.search-card.all.click&vd_source=b124522b4e09e585dffec4144565adea)
 
 - [高等数学-微积分 《数学分析B2》 【中科大少年班精品课】 程艺教授 （94讲）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HV411J7sH/?spm_id_from=333.337.search-card.all.click)
 
