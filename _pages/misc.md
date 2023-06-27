@@ -8,14 +8,13 @@ author_profile: true
 
 Personal
 ===
-I grew up in [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), Gansu in western China and spent 4 years in Hefei. I love these two cities.
+I grew up in [Guilin]([https://en.wikipedia.org/wiki/Lanzhou](https://en.wikipedia.org/wiki/Guilin)) and spent 3 years in Bejing. 
 
 
 Interest
 ===
-* Watching all kinds of sports games, especially basketball, football, and table tennis.
-* Warriors fans
-* Cooking
-* Traveler
+* Mathematics
+* Watching Anime
+
 
 
