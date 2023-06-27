@@ -25,12 +25,12 @@ Education
 ===
 * Sept. 2020 --- June 2024: B.Sc. in Mathematics, Renmin University of China (expected)
 * Sept. 2020 --- June 2024: B.A. in Economics, Renmin University of China (expected)
-* Sept. 2014 --- June 2020: Foreign Lanuage School Attached to GuangXi Normal University (FLS)
+* Sept. 2014 --- June 2020: Foreign Lanuage School Attached to Guangxi Normal University 
 
 Honors and Awards
 ===
-* National Undergraduate Training Program for Innovation and Entrepreneurship    2022
-* Third prize, “Challenge Cup” National Contest      2022
+* National Undergraduate Training Program for Innovation and Entrepreneurship    (2022)
+* Third prize, “Challenge Cup” National Contest      (2022)
 
 
 <script>
