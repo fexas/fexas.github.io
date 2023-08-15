@@ -19,7 +19,7 @@ Short Bio
 
 I am **Rui Li (黎睿)**, a junior student at [Renmin University of China](https://www.ruc.edu.cn/home1024), majoring in both mathematics and economics. 
 
-🌱:Mathematics(Mostly Analysis and Geomtery)/Microeconomy theory(Mechanism Desgin, Auction Theory and Contest Theory)/Machine Learning
+🌱:Mathematics(Discrete geometric analysis)/Microeconomy theory(Mechanism Desgin, Auction Theory and Contest Theory)/Machine Learning
 
 Education
 ===
