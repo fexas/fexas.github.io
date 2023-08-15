@@ -17,7 +17,7 @@ author_profile: true
     - Market Segmentation
 3. Computer Science
    -  Machine Learning and it's application in  mathematics and economics
-   -  
+   
 ---
 
 # Selected Projects
