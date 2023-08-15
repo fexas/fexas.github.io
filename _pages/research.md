@@ -9,11 +9,14 @@ author_profile: true
 # Research interets
 
 1. Mathematics
-   - Analysis
-   - Geometry
+   - Geometric analysis on graphs
+   - Spectral geometry 
 2. MicroeconomyTheory
-3. Machine learning
-
+    - Mechanism design
+    - Auction theory
+    - Market Segmentation
+3. Computer Science
+   - Mahcine Learning and it's application in  mathematics and economics
 ---
 
 # Projects
