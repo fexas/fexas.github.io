@@ -29,6 +29,7 @@ Education
 
 Honors and Awards
 ===
+* IEEE ICWS Best Paper Award （2023）🥳
 * National Undergraduate Training Program for Innovation and Entrepreneurship    (2022)
 * Third prize, “Challenge Cup” National Contest      (2022)
 
