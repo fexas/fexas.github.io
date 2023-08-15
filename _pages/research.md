@@ -16,10 +16,11 @@ author_profile: true
     - Auction theory
     - Market Segmentation
 3. Computer Science
-   - Mahcine Learning and it's application in  mathematics and economics
+   -  Machine Learning and it's application in  mathematics and economics
+   -  
 ---
 
-# Projects
+# Selected Projects
 
 ## 1. Asset Pricing via Machine learning
 
