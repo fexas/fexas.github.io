@@ -45,7 +45,7 @@ A personal latex note in the field of geometric analysis on the graph,which cove
 
 Aug.2023 -- (ongoing)
 
--[Github Repositories](https://github.com/fexas/ATRI-Reproduce)
+- [Github Repositories](https://github.com/fexas/ATRI-Reproduce)
 
 In this project, I have attempted to mimic the distinctive speech patterns of a particular anime character by fine-tuning the large language model ChatGLM-6B. Capturing the stylistic qualities of fictional personas presents an intriguing challenge for training AI systems, requiring models to learn more complex representations of linguistic styles.
 
