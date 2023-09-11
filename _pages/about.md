@@ -34,8 +34,4 @@ Honors and Awards
 * Third prize, “Challenge Cup” National Contest      (2022)
 
 
-<script>
-document.write("Last modifid at: "+document.lastModified+"" )
-</script>
 
----
