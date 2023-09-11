@@ -15,8 +15,11 @@ author_profile: true
     - Mechanism design
     - Auction theory
     - Market Segmentation
-3. Computer Science
-   -  Machine Learning and it's application in  mathematics and economics
+3. Computer Science 
+   -  Machine Learning Theory （theortical interpretability）
+   -  prompt learning and in-context learning
+   -  Dialogue Systems
+   -  Machine Learning's application in  mathematics and economics（Algorithm mechanism design）
    
 ---
 
