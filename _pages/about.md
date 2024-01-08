@@ -11,7 +11,7 @@ redirect_from:
 Current
 ===
 
-*I am looking for a Ph.D. position in mathematics/microeconomy theory/machine learning.*
+*I am looking for a Ph.D. position in mathematics/machine learning.*
 
 
 Short Bio
@@ -19,7 +19,7 @@ Short Bio
 
 I am **Rui Li (黎睿)**, a junior student at [Renmin University of China](https://www.ruc.edu.cn/home1024), majoring in both mathematics and economics. 
 
-🌱:Mathematics(Discrete geometric analysis)/Microeconomy theory(Mechanism Desgin, Auction Theory and Contest Theory)/Machine Learning
+🌱:Mathematics(StatML and Discrete geometric analysis)/Microeconomy theory(Mechanism Desgin, Auction Theory and Contest Theory)/Machine Learning
 
 Education
 ===
